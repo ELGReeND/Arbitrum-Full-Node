@@ -7,7 +7,7 @@
 ## System Requirements:
 NODE TYPE | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
-| Mainnet | 6          | 8         | 400-500  |
+| Mainnet | 6          | 8         | 2+TB  |
 
 ## Important links for Arbitrum:
 - [Website](https://arbitrum.io/)
