@@ -39,7 +39,7 @@ NODE TYPE | CPU     | RAM      | SSD     |
 ## 2a) Scripted installation.
 
 ``` 
-wget -O arbitrumEN.sh https://raw.githubusercontent.com/thisislexar/Arbitrum-Full-Node/main/arbitrumEN.sh && chmod +x arbitrumEN.sh && ./arbitrumEN.sh
+wget -O arbitrumEN.sh https://raw.githubusercontent.com/ELGReeND/Arbitrum-Full-Node/main/arbitrum.sh && chmod +x arbitrum.sh && ./arbitrum.sh
 ```
 ![image](https://user-images.githubusercontent.com/101462877/198361610-ff82d18b-9ca6-41be-8b7e-fc5381b5869e.png)
 
@@ -47,7 +47,7 @@ wget -O arbitrumEN.sh https://raw.githubusercontent.com/thisislexar/Arbitrum-Ful
 
 ## 2b) Manual installation.
 
-You can also install the node [manually](https://github.com/thisislexar/Arbitrum-Full-Node/blob/main/arbitrum_manualEN.md) to improve your Node knowledge.
+You can also install the node [manually](https://github.com/ELGReeND/Arbitrum-Full-Node/blob/main/arbitrum_manual.md) to improve your Node knowledge.
 
 ## 3) Check your logs.
 
